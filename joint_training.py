@@ -134,8 +134,5 @@ def main():
     class_accuracy(net,test_loader)
 
 
-
-
-
 if __name__ == '__main__':
     main()
